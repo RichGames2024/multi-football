@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
   rewardText: {
-    color: 'white',
+    color: 'black',
     fontSize: 16,
     marginTop: 10,
   },
@@ -52,7 +52,8 @@ const styles = StyleSheet.create({
   },
   createRoomContainer: {
     alignItems: 'center',
-    marginTop: 30,
+    justifyContent: 'center',
+    marginTop: 60,
     backgroundColor: 'rgba(0, 0, 0, 0.5)',
     padding: 10,
     borderRadius: 10,
